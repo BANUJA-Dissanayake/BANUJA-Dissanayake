@@ -9,10 +9,12 @@
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
-  
+
+<div>
 <a href="mailto:noxstudioyt@gmail.com" target="_blank">
 <img src="./gmail.png" width=50 height=50 alt="noxstudioyt@gmail.com" style="margin-bottom: 5px;" />
 </a>
+</div>
 
 <a href="https://www.instagram.com/@NOX_DRAGON_" target="_blank">
 <img src="./instagram.png" width=50 height=50 alt="NOX_DRAGON_" style="margin-bottom: 5px;" />
@@ -34,7 +36,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=BANUJA-Dissanayake&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=BANUJA-Dissanayake&theme=merko&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=BANUJA-Dissanayake&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BANUJA-Dissanayake&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
