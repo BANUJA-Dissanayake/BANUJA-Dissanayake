@@ -66,13 +66,13 @@ I've probably debugged more of my own code at 2 AM than in daylight. Coffee coun
   <img src="gmail.png" width=50 height=50 alt="dev_kiran" style="margin-bottom: 5px; />
 </a>
 <a href="https://www.instagram.com/NOX_DRAGON_" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="instagram"  width=50 height=50 alt="dev_kiran" style="margin-bottom: 5px; />
 </a>
 <a href="https://www.github.com/BANUJA-Dissanayake" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="github" width=50 height=50 alt="dev_kiran" style="margin-bottom: 5px; />
 </a>
 <a href="https://www.linkedin.com/in/banuja-dissanayake/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="linkedin" width=50 height=50 alt="dev_kiran" style="margin-bottom: 5px; />
 </a>
 <!-- add your YouTube / Discord / X handles here the same way -->
 <!--
