@@ -34,10 +34,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06070b,100:1a1a2e&height=60&section=header" width="100%"/>
-
-
-
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06070b,100:1a1a2e&height=60&section=header" width="100%"/> -->
 
 </div>
 
