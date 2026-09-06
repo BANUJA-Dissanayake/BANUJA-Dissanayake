@@ -98,7 +98,7 @@ I've probably debugged more of my own code at 2 AM than in daylight. Coffee coun
 
 ### ✍️ Random Dev Quote
 
-<div align="center">
+<div align="">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
