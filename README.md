@@ -7,8 +7,8 @@
   <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
 </p>
 
-<h2 align="">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
-<div align="">
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<div align="center">
   
 <a href="mailto:noxstudioyt@gmail.com" target="_blank">
 <img src="./gmail.png" width=50 height=50 alt="noxstudioyt@gmail.com" style="margin-bottom: 5px;" />
