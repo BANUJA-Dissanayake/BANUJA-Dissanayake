@@ -1,4 +1,4 @@
-![BANUJA-Dissanayake Banner Image](./Ananya01Agrawal.jpg)
+<div align = "center>"![BANUJA-Dissanayake Banner Image](./Ananya01Agrawal.jpg)</div>
 
 # 💫 About Me:
 🎮 Gamer • 💻 Developer • 🕶️ Cybersecurity & Tech Enthusiast. I live between the world of code and the world of games, turning ideas into projects and bugs into defeated bosses. ⚡ Exploring Python, Java, PHP, AI, cybersecurity, and system development while constantly experimenting with new technologies. 🔥 I build, break, debug, learn, and rebuild — always pushing my skills to the next level. 🚀 No shortcuts, no limits — just code, creativity, and the next challenge. `> ACCESS GRANTED // LEVELING UP...`<br>
