@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="720" height="136" viewBox="0 0 720 136" font-family="Consolas, 'Cascadia Code', 'Courier New', monospace" font-size="14">
   <g fill="#FFC400" xml:space="preserve">
     <animate attributeName="fill" values="#FFC400;#FFC400;#FF4FD8;#FF4FD8;#FFC400;#FFC400" keyTimes="0;0.75;0.8;0.9;0.95;1" dur="0.1s" begin="0.1s" repeatCount="indefinite"/>
-    <text x="10" y="20" textLength="700" lengthAdjust="spacing">███╗   ██╗ ██████╗ ██╗  ██╗    ██████╗  ██████╗  █████╗  ██████╗  ██████╗ ███╗   ██╗</text>
-    <text x="10" y="40" textLength="700" lengthAdjust="spacing">████╗  ██║██╔═══██╗╚██╗██╔╝    ██╔══██╗ ██╔══██╗ ██╔══██╗██╔════╝ ██╔═══██╗████╗  ██║</text>
-    <text x="10" y="60" textLength="700" lengthAdjust="spacing">██╔██╗ ██║██║   ██║ ╚███╔╝     ██║  ██║ ██████╔╝ ███████║██║  ███╗██║   ██║██╔██╗ ██║</text>
-    <text x="10" y="80" textLength="700" lengthAdjust="spacing">██║╚██╗██║██║   ██║ ██╔██╗     ██║  ██║ ██╔══██╗ ██╔══██║██║   ██║██║   ██║██║╚██╗██║</text>
+    <text x="10" y="20" textLength="700" lengthAdjust="spacing">███╗   ██╗ ██████╗ ██╗  ██╗     ██████╗  ██████╗  █████╗  ██████╗  ██████╗ ███╗   ██╗</text>
+    <text x="10" y="40" textLength="700" lengthAdjust="spacing">████╗  ██║██╔═══██╗╚██╗██╔╝     ██╔══██╗ ██╔══██╗ ██╔══██╗██╔════╝ ██╔═══██╗████╗  ██║</text>
+    <text x="10" y="60" textLength="700" lengthAdjust="spacing">██╔██╗ ██║██║   ██║ ╚███╔╝      ██║  ██║ ██████╔╝ ███████║██║  ███╗██║   ██║██╔██╗ ██║</text>
+    <text x="10" y="80" textLength="700" lengthAdjust="spacing">██║╚██╗██║██║   ██║ ██╔██╗      ██║  ██║ ██╔══██╗ ██╔══██║██║   ██║██║   ██║██║╚██╗██║</text>
     <text x="10" y="100" textLength="700" lengthAdjust="spacing">██║ ╚████║╚██████╔╝██╔╝ ██╗    ██████╔╝ ██║  ██║ ██║  ██║╚██████╔╝╚██████╔╝██║ ╚████║</text>
     <text x="10" y="120" textLength="700" lengthAdjust="spacing">╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝    ╚═════╝  ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝</text>
   </g>
