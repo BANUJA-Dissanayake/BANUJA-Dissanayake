@@ -8,10 +8,10 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
 </p>
-<div align items = "left">
+
 <div>
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
-<div align="center">
+<h2 align="">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<div align="">
 
 <a href="mailto:noxstudioyt@gmail.com" target="_blank">
 <img src="./gmail.png" width=50 height=50 alt="noxstudioyt@gmail.com" style="margin-bottom: 5px;" />
@@ -29,7 +29,7 @@
 <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 </div>
-<div>
+<div aling="left">
   ![](https://github-readme-stats.shion.dev/api?username=BANUJA-Dissanayake&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
 </div>
