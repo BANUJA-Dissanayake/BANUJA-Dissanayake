@@ -63,16 +63,16 @@ I've probably debugged more of my own code at 2 AM than in daylight. Coffee coun
 <div align="center">
 
 <a href="mailto:noxstudioyt@gmail.com" target="_blank">
-  <img src="gmail.png" width=50 height=50 alt="dev_kiran" style="margin-bottom: 5px; />
+  <img src="gmail.png" width=50 height=50 alt="noxstudioyt@gmail.com" style="margin-bottom: 5px; />
 </a>
 <a href="https://www.instagram.com/NOX_DRAGON_" target="_blank">
-  <img src="instagram"  width=50 height=50 alt="dev_kiran" style="margin-bottom: 5px; />
+  <img src="Instagram.png" width=50 height=50 alt="NOX_DRAGON_" style="margin-bottom: 5px; />
 </a>
 <a href="https://www.github.com/BANUJA-Dissanayake" target="_blank">
-  <img src="github" width=50 height=50 alt="dev_kiran" style="margin-bottom: 5px; />
+  <img src="github.png" width=50 height=50 alt="dev_kiran" style="margin-bottom: 5px; />
 </a>
 <a href="https://www.linkedin.com/in/banuja-dissanayake/" target="_blank">
-  <img src="linkedin" width=50 height=50 alt="dev_kiran" style="margin-bottom: 5px; />
+  <img src="linkedin.png" width=50 height=50 alt="BANUJA-Dissanayake" style="margin-bottom: 5px; />
 </a>
 <!-- add your YouTube / Discord / X handles here the same way -->
 <!--
