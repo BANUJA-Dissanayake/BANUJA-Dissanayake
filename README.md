@@ -2,6 +2,11 @@
 # 💫 About Me:
 🎮 Gamer • 💻 Developer • 🕶️ Cybersecurity & Tech Enthusiast. I live between the world of code and the world of games, turning ideas into projects and bugs into defeated bosses. ⚡ Exploring Python, Java, PHP, AI, cybersecurity, and system development while constantly experimenting with new technologies. 🔥 I build, break, debug, learn, and rebuild — always pushing my skills to the next level. 🚀 No shortcuts, no limits — just code, creativity, and the next challenge. `> ACCESS GRANTED // LEVELING UP...`<br>
 
+<!--Profile Count Badge-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
+</p>
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dragonox_92074) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@NOX_DRAGON_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/banuja-dissanayake) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@noxstudioyt) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:noxstudioyt@gmail.com) 
