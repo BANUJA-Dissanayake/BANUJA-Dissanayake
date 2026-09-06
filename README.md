@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/[YourGitHub]/[YourGitHub]/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+    <img src="https://raw.githubusercontent.com/[BANUJA-Dissanayake]/[BANUJA-Dissanayake]/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
 </div>
 # 💫 About Me:
 🎮 Gamer • 💻 Developer • 🕶️ Cybersecurity & Tech Enthusiast. I live between the world of code and the world of games, turning ideas into projects and bugs into defeated bosses. ⚡ Exploring Python, Java, PHP, AI, cybersecurity, and system development while constantly experimenting with new technologies. 🔥 I build, break, debug, learn, and rebuild — always pushing my skills to the next level. 🚀 No shortcuts, no limits — just code, creativity, and the next challenge. `> ACCESS GRANTED // LEVELING UP...`<br>
