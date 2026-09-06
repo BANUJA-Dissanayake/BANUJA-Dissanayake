@@ -83,14 +83,10 @@ I've probably debugged more of my own code at 2 AM than in daylight. Coffee coun
 ## 📊 GitHub Stats
 
 <div align="center">
-
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=BANUJA-Dissanayake&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BANUJA-Dissanayake&layout=compact&theme=tokyonight&hide_border=true"/>
-
 <img src="https://streak-stats.demolab.com/?user=BANUJA-Dissanayake&theme=tokyonight&hide_border=true" />
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BANUJA-Dissanayake&theme=tokyo-night&hide_border=true" width="95%"/>
-
 </div>
 
 ### 🏆 GitHub Trophies
