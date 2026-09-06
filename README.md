@@ -132,7 +132,7 @@ I've probably debugged more of my own code at 2 AM than in daylight. Coffee coun
 
 ## 🤝 Connect With Me
 
-<div align="">
+<div align="center">
 
 <a href="mailto:noxstudioyt@gmail.com" target="_blank">
   <img src="./gmail.png" width="50" height="50" alt="noxstudioyt@gmail.com" style="margin: 0 10px 5px 10px;" />
