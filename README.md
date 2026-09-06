@@ -10,19 +10,19 @@
 <h2 align="">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="">
   
-<a href="mailto:kirannaragund197@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="kirannaragund197@gmail.com" style="margin-bottom: 5px;" />
+<a href="mailto:noxstudioyt@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="noxstudioyt@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.instagram.com/kiran_a_n" target="_blank">
-<img src="./instagram.png" width=50 height=50 alt="kiran_a_n" style="margin-bottom: 5px;" />
+<a href="https://www.instagram.com/@NOX_DRAGON_" target="_blank">
+<img src="./instagram.png" width=50 height=50 alt="NOX_DRAGON_" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.githubcom/Kiran1689" target="_blank">
-<img src="./github.png" width=50 height=50 alt="Kiran1689" style="margin-bottom: 5px;" />
+<a href="https://www.githubcom/BANUJA-Dissanayake" target="_blank">
+<img src="./github.png" width=50 height=50 alt="BANUJA-Dissanayake" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
+<a href="https://www.linkedin.com/in/banuja-dissanayake/" target="_blank">
 <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 
