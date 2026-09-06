@@ -119,13 +119,13 @@ I've probably debugged more of my own code at 2 AM than in daylight. Coffee coun
 
 <a href="mailto:noxstudioyt@gmail.com" target="_blank">
   <img src="./gmail.png" width="50" height="50" alt="noxstudioyt@gmail.com" style="margin: 0 10px 5px 10px;" />
-</a>
+</a><span style="display:inline-block;width:50px;"></span>
 <a href="https://www.instagram.com/NOX_DRAGON_" target="_blank">
   <img src="./instagram.png" width="50" height="50" alt="NOX_DRAGON_" style="margin: 0 10px 5px 10px;" />
-</a>
+</a><span style="display:inline-block;width:50px;"></span>
 <a href="https://www.github.com/BANUJA-Dissanayake" target="_blank">
   <img src="./github.png" width="50" height="50" alt="BANUJA-Dissanayake" style="margin: 0 10px 5px 10px;" />
-</a>
+</a><span style="display:inline-block;width:50px;"></span>
 <a href="https://www.linkedin.com/in/banuja-dissanayake/" target="_blank">
   <img src="./linkedin.png" width="50" height="50" alt="BANUJA-Dissanayake" style="margin: 0 10px 5px 10px;" />
 </a>
