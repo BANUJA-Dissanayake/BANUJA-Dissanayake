@@ -16,6 +16,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=5EE6FF&center=true&vCenter=true&width=780&lines=Gamer+%E2%80%A2+Developer+%E2%80%A2+Cybersecurity+Enthusiast;Building+in+Python%2C+Java%2C+PHP+%26+C%2B%2B;Breaking+things+on+purpose+since+day+one;%3E+ACCESS+GRANTED+%2F%2F+LEVELING+UP..." alt="Typing SVG" />
 </a>
 
+<div align = "left">
 <pre>
 [01] init kernel...                [ OK ]
 [02] mount /dev/nox...              [ OK ]
@@ -24,6 +25,7 @@
 [05] loading profile.db...          [ OK ]
 [06] ACCESS GRANTED...              [ OK ]
 </pre>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06070b,100:1a1a2e&height=60&section=header" width="100%"/>
 
