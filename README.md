@@ -62,9 +62,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
-
-<p>nox@drago:~$ index.sh</p>
-
+  
 <pre>
 [01] init kernel...                [ OK ]
 [02] mount /dev/nox...              [ OK ]
@@ -74,7 +72,7 @@
 [06] ACCESS GRANTED...              [ OK ]
 </pre>
 
-<pre>
+<pre align = "center">
 ███╗   ██╗  ██████╗  ██╗  ██╗   ██████╗  ██████╗   █████╗   ██████╗  ██████╗  ███╗   ██╗
 ████╗  ██║ ██╔═══██╗ ╚██╗██╔╝   ██╔══██╗ ██╔══██╗ ██╔══██╗ ██╔════╝ ██╔═══██╗ ████╗  ██║
 ██╔██╗ ██║ ██║   ██║  ╚███╔╝    ██║  ██║ ██████╔╝ ███████║ ██║  ███╗██║   ██║ ██╔██╗ ██║
