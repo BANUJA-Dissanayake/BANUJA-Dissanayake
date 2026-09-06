@@ -63,7 +63,7 @@ I've probably debugged more of my own code at 2 AM than in daylight. Coffee coun
 <div align="center">
 
 <a href="mailto:noxstudioyt@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="gmail.png" />
 </a>
 <a href="https://www.instagram.com/NOX_DRAGON_" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
