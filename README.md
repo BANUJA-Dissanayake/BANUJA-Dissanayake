@@ -12,7 +12,7 @@
   
 <a href="mailto:noxstudioyt@gmail.com" target="_blank">
 <img src="./gmail.png" width=50 height=50 alt="noxstudioyt@gmail.com" style="margin-bottom: 5px;" />
-</a>
+</a><p></p>
 
 <a href="https://www.instagram.com/@NOX_DRAGON_" target="_blank">
 <img src="./instagram.png" width=50 height=50 alt="NOX_DRAGON_" style="margin-bottom: 5px;" />
