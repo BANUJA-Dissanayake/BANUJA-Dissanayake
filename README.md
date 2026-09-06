@@ -6,7 +6,7 @@
 
 <!-- animated typing tagline — edit the &lines= text below to change what it cycles through -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=300&pause=80&color=5EE6FF&center=true&vCenter=true&width=780&lines=Gamer+%E2%80%A2+Developer+%E2%80%A2+Cybersecurity+Enthusiast;Building+in+Python%2C+Java%2C+PHP+%26+C%2B%2B;Breaking+things+on+purpose+since+day+one;%3E+ACCESS+GRANTED+%2F%2F+LEVELING+UP..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=5EE6FF&center=true&vCenter=true&width=780&lines=Gamer+%E2%80%A2+Developer+%E2%80%A2+Cybersecurity+Enthusiast;Building+in+Python%2C+Java%2C+PHP+%26+C%2B%2B;Breaking+things+on+purpose+since+day+one;%3E+ACCESS+GRANTED+%2F%2F+LEVELING+UP..." alt="Typing SVG" />
 </a>
 
 <div align = "left">
