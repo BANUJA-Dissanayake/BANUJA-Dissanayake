@@ -1,27 +1,721 @@
-# 💫 About Me:
-🎮 Gamer • 💻 Developer • 🕶️ Cybersecurity & Tech Enthusiast. I live between the world of code and the world of games, turning ideas into projects and bugs into defeated bosses. ⚡ Exploring Python, Java, PHP, AI, cybersecurity, and system development while constantly experimenting with new technologies. 🔥 I build, break, debug, learn, and rebuild — always pushing my skills to the next level. 🚀 No shortcuts, no limits — just code, creativity, and the next challenge. `> ACCESS GRANTED // LEVELING UP...`<br>
+Skip to content
+DEV Community
+Find related posts...
+Powered by Algolia 
+Log in
+Create account
+
+10
+Jump to Comments
+
+137
+Save
+
+Boost
+
+Cover image for Creating an Engaging GitHub Profile: A Step-by-Step Guide
+Zane
+Zane
+Posted on Jan 8, 2024
+•
+Edited on Jan 15, 2024
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dragonox_92074) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@NOX_DRAGON_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/banuja-dissanayake) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@noxstudioyt) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:noxstudioyt@gmail.com) 
 
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=BANUJA-Dissanayake&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=BANUJA-Dissanayake&theme=merko&hide_border=true)
+103
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=BANUJA-Dissanayake&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
+2
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=BANUJA-Dissanayake&limit=5&theme=dark&combine_all_yearly_contributions=true)
+3
 
----
-[![](https://komarev.com/ghpvc/?username=BANUJA-Dissanayake&icon=10&color=13)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+3
+
+
+4
+Creating an Engaging GitHub Profile: A Step-by-Step Guide
+#
+beginners
+#
+javascript
+#
+tutorial
+#
+webdev
+Crafting a GitHub profile that stands out requires a blend of technical showcase and personal branding. Here's how you can create a unique and engaging GitHub profile, inspired by dynamic and detailed examples.
+
+1. Start with a Dynamic Header
+Begin your profile with an eye-catching header. You can use a typing effect SVG to make an animated greeting:
+
+GIFTerminal GH GIF
+
+Code Snippet:
+
+<div align="center">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+[Your Name];This+is..;..my+Github..;" alt="Typing SVG"/>
+    </h1>
+</div>
+2. Adding a Dynamic GIF
+Add a dynamic GIF to your GitHub profile for a lively header:
+
+Terminal GH GIF
+
+Choose or Create a GIF: Find a GIF that represents you or your work. It could be a cool animation related to coding, a snippet of your projects, or anything that adds personality to your profile.
+
+Add the GIF to Your README: Use the following HTML snippet to embed the GIF into your profile README. Replace the src attribute with the URL of your chosen GIF.
+
+<div align="center">
+    <p>
+        <img src="URL_OF_YOUR_GIF.gif" alt="Descriptive Text for the GIF" />
+    </p>
+</div>
+This step will create an eye-catching header with your chosen GIF centered on your GitHub profile page, making it more engaging and visually appealing to visitors. Remember to ensure your GIF's size and content are appropriate and professional for your GitHub profile.
+
+2. Introduce Yourself
+Create a section about yourself, detailing your role, expertise, and a bit about your interests.
+
+Image description
+
+Code snippet:
+
+<div align="center">
+    <h2>🚀 About Me</h2>
+    <p>I'm a [Your Job Title] specializing in [Your Specialization]. I enjoy [hobbies/interests].</p>
+</div>
+3. Enable Easy Connections
+Use badges for linking to your LinkedIn, portfolio, or any other professional websites.
+
+Image description
+
+Code snippet:
+
+<div align="center">
+    <!-- Replace href with your links -->
+    <a href="https://www.linkedin.com/in/[YourLinkedIn]/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+</div>
+4. Visualize Your Commit History
+Add a GitHub contributions snake animation to visualize your daily activity.
+
+GIFImage description
+
+Code snippet:
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/[YourGitHub]/[YourGitHub]/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+</div>
+5. List Your Programming Languages
+Showcase the languages you are proficient in with badges.
+
+Image description
+
+Code snippet:
+
+<div align="center">
+    <!-- Replace with your skills -->
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+    <!-- Add more badges similarly -->
+</div>
+6. Highlight Your Experience with Cloud Technologies
+Detail your knowledge in cloud technologies with relevant badges.
+
+Image description
+
+Code snippet:
+
+<div align="center">
+    <!-- Replace with your cloud tech skills -->
+    <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+    <!-- Add more badges similarly -->
+</div>
+7. Feature Your Framework Proficiency
+Showcase the frameworks you're skilled at.
+
+Image description
+
+Code Snippet:
+
+<div align="center">
+    <!-- Replace with your framework skills -->
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+    <!-- Add more badges similarly -->
+</div>
+8. Showcase Your 3D Modeling, VR, and AR Expertise
+Express your skills in the immersive technology space with a dedicated section for 3D Modeling, Virtual Reality, and Augmented Reality.
+
+Image description
+
+Code Snippet:
+
+<div align="center">
+    <h2 align="center" class="section-heading">👾 3D Modeling + VR + AR</h2>
+    <p>In the immersive domains of 3D Modeling, Virtual Reality (VR), and Augmented Reality (AR), I apply my expertise to bring digital creations to life. Leveraging industry-leading tools, I sculpt, render, and animate with precision, while pioneering VR and AR experiences that bridge the gap between virtuality and reality.</p>
+    <!-- Replace with your 3D/VR/AR skills -->
+    <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine"/>
+    <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+    <!-- Add more badges similarly -->
+</div>
+By including this section, you highlight your ability to work with cutting-edge technology and create immersive digital experiences, showcasing a dynamic range of skills beyond traditional programming. Remember to replace placeholders and add or remove badges based on your specific skills and experiences.
+
+9. Incorporate Stats and Visualizations
+Include GitHub stats to provide a snapshot of your activity and contributions.
+
+Image description
+
+Code Snippet:
+
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[YourGitHub]&theme=github_dark" alt="[Your Name]'s GitHub Stats"/>
+</div>
+10. Keep It Updated
+Regularly revisit and update your profile as you acquire new skills, complete more projects, or want to refresh the look and content.
+
+Conclusion
+Your GitHub profile is the front page of your coding journey. With these steps and snippets, you can make it a dynamic, informative, and attractive space that effectively showcases your skills, projects, and personality.
+
+My Complete GitHub Profile Code
+Below is the full source code for creating a dynamic and engaging GitHub profile. This comprehensive code includes all the snippets and sections described earlier, allowing you to replicate or customize the profile setup for your own use. Remember to replace placeholders with your own information and feel free to add or remove sections as per your profile needs. My Github
+
+
+<div align="center">
+    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Zane;This+is..;..my+Github..;" alt="Typing SVG"/></h1>
+    <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
+</div>
+
+<div align="center">
+    <h2>🚀 About Me</h2>
+<!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
+    <p>I'm a Software Engineering specialist at Accenture with Aus/EU citizenship, specializing in fusing software development with operations. My technical range is broad, covering everything from cloud platforms and containerization to CRM systems and 3D modeling.</p>
+</div>
+
+<div align="center">
+<h2 align="center" class="section-heading">🌐 Connect with Me</h2>
+<p> To connect with me, you can find my professional profile and contact details on LinkedIn, or explore more about my projects and interests through my Linktree. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together! </p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/zane-pearton">
+    <img src="https://img.shields.io/badge/ZanePearton-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://linktr.ee/zanepearton">
+    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=Linktree&logoColor=white" alt="Linktree"/>
+  </a>
+<a href="https://github.com/ZanePearton/ZanePearton" target="_blank">
+    <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=ZanePearton&style=for-the-badge" alt="Profile views" />
+</div>
+
+<div align="center">
+  <h2>🚀 Github Commits</h2>
+    <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Dive into the commit messages for insights into what I've been up to!</p>
+  <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
+  <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
+</div>
+
+<h2 align="center" class="section-heading">💻 Programming Languages</h2>
+<p> As a multifaceted engineer, I've developed proficiency in a diverse set of programming languages, each serving as a pivotal tool in my development arsenal. Here are the languages I wield to turn complex problems into elegant solutions</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
+  <img src="https://img.shields.io/badge/YAML-0A0A0A?style=for-the-badge" alt="YAML"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+
+</div>
+<h2 align="center" class="section-heading">☁️ Cloud Technologies</h2>
+<p>In the dynamic realm of cloud computing, I am proficient in leveraging leading cloud platforms and technologies to architect, deploy, and manage scalable, highly available, and fault-tolerant systems. Here's a glance at the cloud technologies I specialize in:</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce"/>
+</div>
+
+<h2 align="center" class="section-heading">🔧 Frameworks</h2>
+<p>Frameworks are the backbone of my development process, providing the structure and tools necessary for building scalable, efficient applications. My expertise spans a broad spectrum of frameworks, each chosen for its ability to facilitate rapid development and deliver robust functionality</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/> 
+</div>
+
+<h2 align="center" class="section-heading">👾 3D Modeling + VR + AR</h2>
+<p>In the immersive domains of 3D Modeling, Virtual Reality (VR), and Augmented Reality (AR), I apply my expertise to bring digital creations to life. Leveraging industry-leading tools, I sculpt, render, and animate with precision, while pioneering VR and AR experiences that bridge the gap between virtuality and reality.</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+  <img src="https://img.shields.io/badge/3DS_Max-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" alt="3DS Max"/>
+  <img src="https://img.shields.io/badge/Maya-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" alt="Maya"/>
+  <img src="https://img.shields.io/badge/Rhino-801010?style=for-the-badge&logo=rhinoceros&logoColor=white" alt="Rhino"/>
+  <img src="https://img.shields.io/badge/MeshLab-FF4000?style=for-the-badge" alt="MeshLab"/>
+  <img src="https://img.shields.io/badge/ZBrush-5491F1?style=for-the-badge" alt="ZBrush"/>
+  <img src="https://img.shields.io/badge/Revit-FF9E0B?style=for-the-badge&logo=autodesk&logoColor=white" alt="Revit"/>
+  <img src="https://img.shields.io/badge/ArchiCAD-0081CF?style=for-the-badge" alt="ArchiCAD"/>
+  <img src="https://img.shields.io/badge/Oculus-1C1E20?style=for-the-badge&logo=oculus&logoColor=white" alt="Oculus"/>
+</div>
+
+<div align="center">
+<h2 align="center" class="section-heading"> 💻 Github Stats</h2>
+<p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
+ <table align="center" width="100%" height="100%" >
+    <tr>
+       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zanepearton&theme=github_dark" alt="Zane's GitHub Stats"/></td>   
+       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=zanepearton&theme=merko" alt="Zane's Contribution Streak"/></td>
+    </tr>
+ </table>
+
+ <table align="center" width="100%" height="100%" >
+    <tr>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zanepearton&theme=github_dark" alt="Zane's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zanepearton&theme=github_dark&utcOffset=10" alt="Zane's GitHub Stats"/>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zanepearton&theme=github_dark" alt="Zane's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zanepearton&theme=github_dark" alt="Zane's GitHub Stats"/></td>
+    </tr>
+ </table>
+</div>
+
+profile
+Sentry
+Promoted
+
+Sentry blog image
+
+Build, Ship, See It All: MCP Monitoring with Sentry
+Built an MCP server? Now see everything it does. Sentry’s MCP Server Monitoring tracks every client, tool, and request so you can fix issues fast and build with confidence.
+
+Read more
+
+Top comments (10)
+Subscribe
+pic
+Add to the discussion
+
+Submit
+Preview
+ 
+ 
+lymah profile image
+Lymah Subscriber
+•
+Jan 9 '24
+
+Thanks for sharing.
+
+
+2
+ likes
+Like
+
+Reply
+ 
+ 
+samuel2935 profile image
+Samuel
+•
+Jan 11 '24
+
+Helpful
+
+
+2
+ likes
+Like
+
+Reply
+ 
+ 
+taqui profile image
+Taqui
+•
+Jan 9 '24
+
+Great Tutorial . Thanks for sharing it👌
+
+GitHub logo taqui-786 / taqui-786
+
+
+
+A passionate software developer and tech Blog writer from India
+
+🔭 I’m currently working on a Nexjs Projects
+
+🌱 I’m currently learning C++,Typescript and Java
+
+📚 Write's Blogs at Dev.to and Hashnode
+
+💬 Ask me about Node.js, React, Firebase, MongoDB... or anything here
+
+⚡ Fun fact World first developer was a women
+
+   
+⚒️ Languages-Frameworks-Tools ⚒️
+
+ 
+
+⚡ Stats ⚡
+
+streak stats readme stats
+top langs
+contribution graph
+
+
+
+View on GitHub
+
+
+
+3
+ likes
+Like
+
+Reply
+ 
+ 
+n1c01a5 profile image
+Wagner Nicolas
+•
+Jan 10 '24
+
+Here is mine :
+
+github.com/n1c01a5
+
+Don't hesitate to follow me !
+
+
+2
+ likes
+Like
+
+Reply
+ 
+ 
+dev_kiran profile image
+Kiran Naragund Subscriber
+•
+Jan 9 '24
+
+Checkout my profile:
+
+GitHub logo Kiran1689 / kiran1689
+Github readme profile. Feel free to fork and use the template.
+Kiran1689 Banner Image
+
+
+ ɪ'ᴍ ᴋɪʀᴀɴ!
+Digital Craftsman (Developer / Programmer)
+
+I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization.
+
+✨ Student of life :)
+🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+🏙 A lifetime insider and Mentor at Exercism.
+✍ I write technical blogs, You can visit my blog site at DEV.
+❤ Contributing to Open Source.
+💻 Visit my Portfolio for more details about me.
+Kiran1689
+
+
+
+Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs
+
+
+🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆
+GitHub Trophies
+
+📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊
+Gɪᴛʜᴜʙ Sᴛᴀᴛs
+GitHub Stats
+
+Sᴛʀᴇᴀᴋ Sᴛᴀᴛs
+Streak Stats
+
+Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ
+Awesome-Dev-Portfolios
+
+Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs
+Top Repo
+
+📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈
+
+🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟
+
+
+🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝
+linkedin kirannaragund197@gmail.com kiran_a_n kiran__a__n Twitter
+Buy Me A Coffee
+
+
+
+
+
+View on GitHub
+
+
+
+2
+ likes
+Like
+
+Reply
+ 
+ 
+m__mdy__m profile image
+Genix
+•
+Jan 11 '24
+
+please checkOut my profile github
+
+
+m-mdy-m (Mahdi) · GitHub
+Junior web developer. m-mdy-m has 41 repositories available. Follow their code on GitHub.
+
+github.com
+
+1
+ like
+Like
+
+Reply
+ 
+ 
+sammy6378 profile image
+Samuel Mwangi N
+•
+Mar 17 '24
+
+Nice work done
+
+
+1
+ like
+Like
+
+Reply
+ 
+ 
+lorenzocalabrese03 profile image
+Lorenzo Calabrese
+•
+Jul 15 '24 • Edited on Jul 15
+
+github.com/LorenzoCalabrese03
+This is my profile, if you can check it pls
+
+
+Like
+
+Reply
+ 
+ 
+chizobaeze profile image
+Eze Chizoba Cynthia
+•
+May 31 '25
+
+this is mine
+github.com/Chizobaeze
+please follow and engage
+thanks for the tutorial!!!
+
+
+1
+ like
+Like
+
+Reply
+Some comments have been hidden by the post's author - find out more
+
+Code of Conduct • Report abuse
+profile
+The DEV Team
+Promoted
+
+Hacktoberfest image
+
+Hacktoberfest applications are open
+Hacktoberfest is back. 300+ in person Fests and online events worldwide this October, all about building with open-source AI. Host a Fest for your community.
+
+Learn More →
+
+
+Zane
+Follow
+Software Engineer
+Location
+Melbourne
+Joined
+Jan 8, 2024
+More from Zane
+Rust + WASI: Application Monitoring
+#webdev #programming #rust #javascript
+Rust vs. Go: The benchmark
+#webdev #programming #rust #go
+Terminal Style CV Using GitHub Pages
+#webdev #javascript #programming #tutorial
+profile
+The DEV Team
+Promoted
+
+Hacktoberfest image
+
+Hacktoberfest applications are open! 🎃
+Hacktoberfest is back. 300+ in person Fests and online events worldwide this October, all about building with open-source AI. Host a Fest for your community.
+
+Host a Fest 🎉 →
+
+
+<div align="center">
+    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Zane;This+is..;..my+Github..;" alt="Typing SVG"/></h1>
+    <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
+</div>
+
+<div align="center">
+    <h2>🚀 About Me</h2>
+<!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
+    <p>I'm a Software Engineering specialist at Accenture with Aus/EU citizenship, specializing in fusing software development with operations. My technical range is broad, covering everything from cloud platforms and containerization to CRM systems and 3D modeling.</p>
+</div>
+
+<div align="center">
+<h2 align="center" class="section-heading">🌐 Connect with Me</h2>
+<p> To connect with me, you can find my professional profile and contact details on LinkedIn, or explore more about my projects and interests through my Linktree. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together! </p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/zane-pearton">
+    <img src="https://img.shields.io/badge/ZanePearton-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://linktr.ee/zanepearton">
+    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=Linktree&logoColor=white" alt="Linktree"/>
+  </a>
+<a href="https://github.com/ZanePearton/ZanePearton" target="_blank">
+    <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=ZanePearton&style=for-the-badge" alt="Profile views" />
+</div>
+
+<div align="center">
+  <h2>🚀 Github Commits</h2>
+    <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Dive into the commit messages for insights into what I've been up to!</p>
+  <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
+  <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
+</div>
+
+<h2 align="center" class="section-heading">💻 Programming Languages</h2>
+<p> As a multifaceted engineer, I've developed proficiency in a diverse set of programming languages, each serving as a pivotal tool in my development arsenal. Here are the languages I wield to turn complex problems into elegant solutions</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
+  <img src="https://img.shields.io/badge/YAML-0A0A0A?style=for-the-badge" alt="YAML"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+
+</div>
+<h2 align="center" class="section-heading">☁️ Cloud Technologies</h2>
+<p>In the dynamic realm of cloud computing, I am proficient in leveraging leading cloud platforms and technologies to architect, deploy, and manage scalable, highly available, and fault-tolerant systems. Here's a glance at the cloud technologies I specialize in:</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce"/>
+</div>
+
+<h2 align="center" class="section-heading">🔧 Frameworks</h2>
+<p>Frameworks are the backbone of my development process, providing the structure and tools necessary for building scalable, efficient applications. My expertise spans a broad spectrum of frameworks, each chosen for its ability to facilitate rapid development and deliver robust functionality</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/> 
+</div>
+
+<h2 align="center" class="section-heading">👾 3D Modeling + VR + AR</h2>
+<p>In the immersive domains of 3D Modeling, Virtual Reality (VR), and Augmented Reality (AR), I apply my expertise to bring digital creations to life. Leveraging industry-leading tools, I sculpt, render, and animate with precision, while pioneering VR and AR experiences that bridge the gap between virtuality and reality.</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+  <img src="https://img.shields.io/badge/3DS_Max-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" alt="3DS Max"/>
+  <img src="https://img.shields.io/badge/Maya-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" alt="Maya"/>
+  <img src="https://img.shields.io/badge/Rhino-801010?style=for-the-badge&logo=rhinoceros&logoColor=white" alt="Rhino"/>
+  <img src="https://img.shields.io/badge/MeshLab-FF4000?style=for-the-badge" alt="MeshLab"/>
+  <img src="https://img.shields.io/badge/ZBrush-5491F1?style=for-the-badge" alt="ZBrush"/>
+  <img src="https://img.shields.io/badge/Revit-FF9E0B?style=for-the-badge&logo=autodesk&logoColor=white" alt="Revit"/>
+  <img src="https://img.shields.io/badge/ArchiCAD-0081CF?style=for-the-badge" alt="ArchiCAD"/>
+  <img src="https://img.shields.io/badge/Oculus-1C1E20?style=for-the-badge&logo=oculus&logoColor=white" alt="Oculus"/>
+</div>
+
+<div align="center">
+<h2 align="center" class="section-heading"> 💻 Github Stats</h2>
+<p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
+ <table align="center" width="100%" height="100%" >
+    <tr>
+       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zanepearton&theme=github_dark" alt="Zane's GitHub Stats"/></td>   
+       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=zanepearton&theme=merko" alt="Zane's Contribution Streak"/></td>
+    </tr>
+ </table>
+
+ <table align="center" width="100%" height="100%" >
+    <tr>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zanepearton&theme=github_dark" alt="Zane's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zanepearton&theme=github_dark&utcOffset=10" alt="Zane's GitHub Stats"/>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zanepearton&theme=github_dark" alt="Zane's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zanepearton&theme=github_dark" alt="Zane's GitHub Stats"/></td>
+    </tr>
+ </table>
+</div>
+
+DEV Community — A space to discuss and keep up software development and manage your software career
+
+Home
+DEV Challenges
+DEV++
+Videos
+DEV Education Tracks
+DEV Help
+Advertise on DEV
+Organization Accounts
+DEV Showcase
+About
+Contact
+Free Postgres Database
+DEV Shop
+MLH
+Code of Conduct
+Privacy Policy
+Terms of Use
+Built on Forem — the open source software that powers DEV and other inclusive communities.
+
+Made with love and Ruby on Rails. DEV Community © 2016 - 2026.
