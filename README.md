@@ -58,31 +58,6 @@ I've probably debugged more of my own code at 2 AM than in daylight. Coffee coun
 
 <br>
 
-## 🤝 Connect With Me
-
-<div align="">
-
-<a href="mailto:noxstudioyt@gmail.com" target="_blank">
-  <img src="./gmail.png" width="50" height="50" alt="noxstudioyt@gmail.com" style="margin: 0 10px 5px 10px;" />
-</a>
-<a href="https://www.instagram.com/NOX_DRAGON_" target="_blank">
-  <img src="./instagram.png" width="50" height="50" alt="NOX_DRAGON_" style="margin: 0 10px 5px 10px;" />
-</a>
-<a href="https://www.github.com/BANUJA-Dissanayake" target="_blank">
-  <img src="./github.png" width="50" height="50" alt="BANUJA-Dissanayake" style="margin: 0 10px 5px 10px;" />
-</a>
-<a href="https://www.linkedin.com/in/banuja-dissanayake/" target="_blank">
-  <img src="./linkedin.png" width="50" height="50" alt="BANUJA-Dissanayake" style="margin: 0 10px 5px 10px;" />
-</a>
-<!-- add your YouTube / Discord / X handles here the same way -->
-<!--
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
--->
-
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06070b,100:1a1a2e&height=3&width=100%"/>
 
 ## 💻 Tech Stack
@@ -154,6 +129,31 @@ I've probably debugged more of my own code at 2 AM than in daylight. Coffee coun
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06070b,100:1a1a2e&height=3&width=100%"/>
 
 ## ☕ Support
+
+## 🤝 Connect With Me
+
+<div align="">
+
+<a href="mailto:noxstudioyt@gmail.com" target="_blank">
+  <img src="./gmail.png" width="50" height="50" alt="noxstudioyt@gmail.com" style="margin: 0 10px 5px 10px;" />
+</a>
+<a href="https://www.instagram.com/NOX_DRAGON_" target="_blank">
+  <img src="./instagram.png" width="50" height="50" alt="NOX_DRAGON_" style="margin: 0 10px 5px 10px;" />
+</a>
+<a href="https://www.github.com/BANUJA-Dissanayake" target="_blank">
+  <img src="./github.png" width="50" height="50" alt="BANUJA-Dissanayake" style="margin: 0 10px 5px 10px;" />
+</a>
+<a href="https://www.linkedin.com/in/banuja-dissanayake/" target="_blank">
+  <img src="./linkedin.png" width="50" height="50" alt="BANUJA-Dissanayake" style="margin: 0 10px 5px 10px;" />
+</a>
+<!-- add your YouTube / Discord / X handles here the same way -->
+<!--
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+-->
+
+</div>
 
 <div align="center">
 
