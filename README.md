@@ -8,7 +8,8 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
 </p>
-
+<div align items = "left">
+<div>
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
 
@@ -27,6 +28,10 @@
 <a href="https://www.linkedin.com/in/banuja-dissanayake/" target="_blank">
 <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
+</div>
+<div>
+  ![](https://github-readme-stats.shion.dev/api?username=BANUJA-Dissanayake&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
+
 </div>
 
 # 💻 Tech Stack:
