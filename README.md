@@ -10,11 +10,10 @@
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
 
-<div>
+<div aling="left">
 <a href="mailto:noxstudioyt@gmail.com" target="_blank">
 <img src="./gmail.png" width=50 height=50 alt="noxstudioyt@gmail.com" style="margin-bottom: 5px;" />
 </a>
-</div>
 
 <a href="https://www.instagram.com/@NOX_DRAGON_" target="_blank">
 <img src="./instagram.png" width=50 height=50 alt="NOX_DRAGON_" style="margin-bottom: 5px;" />
@@ -27,6 +26,7 @@
 <a href="https://www.linkedin.com/in/banuja-dissanayake/" target="_blank">
 <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
+</div>
 </div>
 
 
