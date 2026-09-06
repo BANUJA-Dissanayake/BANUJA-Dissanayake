@@ -29,7 +29,7 @@
 <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 </div>
-<div aling="left">
+<div aling="right">
   ![](https://github-readme-stats.shion.dev/api?username=BANUJA-Dissanayake&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
 </div>
