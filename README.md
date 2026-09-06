@@ -153,8 +153,8 @@ I've probably debugged more of my own code at 2 AM than in daylight. Coffee coun
 
 `root@drago:~$ echo "thanks for stopping by"` <br>
 <sub>Proudly hacked together with GPRM + a lot of ☕ — <code>build 0x02</code></sub>
-<svg width="120" height="40"><style>.t{fill:orange;}.t:hover{fill:blue;}</style><rect class="t" width="120" height="40"/></svg>
+<svg width="120" height="40"><rect class="t" width="120" height="40"/></svg>
 
 </div>
 
-<svg width="120" height="40"><style>.t{fill:orange;}.t:hover{fill:blue;}</style><rect class="t" width="120" height="40"/></svg>
+<svg width="120" height="40"><rect class="t" width="120" height="40"/></svg>
