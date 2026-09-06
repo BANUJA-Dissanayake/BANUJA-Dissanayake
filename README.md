@@ -128,10 +128,7 @@ I've probably debugged more of my own code at 2 AM than in daylight. Coffee coun
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06070b,100:1a1a2e&height=3&width=100%"/>
 
-## ☕ Support
-
-## 🤝 Connect With Me
-
+## ☕ Support & 🤝Connect With Me
 <div align="center">
 
 <a href="mailto:noxstudioyt@gmail.com" target="_blank">
