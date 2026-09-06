@@ -27,6 +27,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06070b,100:1a1a2e&height=60&section=header" width="100%"/>
 
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=BANUJA-Dissanayake&label=Profile%20views&color=770677&style=for-the-badge&logo=star)
+![Followers](https://img.shields.io/github/followers/BANUJA-Dissanayake?label=Followers&style=for-the-badge&color=5EE6FF&logo=github)
+![Status](https://img.shields.io/badge/Status-Online-39FF14?style=for-the-badge&logo=statuspage&logoColor=white)
+
+</div>
+
+
 </div>
 
 ## 💫 About Me
@@ -48,14 +57,6 @@ I've probably debugged more of my own code at 2 AM than in daylight. Coffee coun
 </details>
 
 <br>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=BANUJA-Dissanayake&label=Profile%20views&color=770677&style=for-the-badge&logo=star)
-![Followers](https://img.shields.io/github/followers/BANUJA-Dissanayake?label=Followers&style=for-the-badge&color=5EE6FF&logo=github)
-![Status](https://img.shields.io/badge/Status-Online-39FF14?style=for-the-badge&logo=statuspage&logoColor=white)
-
-</div>
 
 ## 🤝 Connect With Me
 
