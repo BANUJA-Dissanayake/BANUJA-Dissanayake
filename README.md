@@ -166,8 +166,6 @@ I've probably debugged more of my own code at 2 AM than in daylight. Coffee coun
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:06070b&height=80&section=footer" width="100%"/>
-
 <div align="center">
 
 `root@drago:~$ echo "thanks for stopping by"` <br>
