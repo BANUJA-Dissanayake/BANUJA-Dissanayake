@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=BANUJA-Dissanayake&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=BANUJA-Dissanayake&theme=merko&hide_border=true)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=BANUJA-Dissanayake&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BANUJA-Dissanayake&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
