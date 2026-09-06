@@ -16,15 +16,15 @@
 
 <a href="https://www.instagram.com/@NOX_DRAGON_" target="_blank">
 <img src="./instagram.png" width=50 height=50 alt="NOX_DRAGON_" style="margin-bottom: 5px;" />
-</a>
+</a><p></p>
 
 <a href="https://www.githubcom/BANUJA-Dissanayake" target="_blank">
 <img src="./github.png" width=50 height=50 alt="BANUJA-Dissanayake" style="margin-bottom: 5px;" />
-</a>
+</a><p></p>
 
 <a href="https://www.linkedin.com/in/banuja-dissanayake/" target="_blank">
 <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
-</a>
+</a><p></p>
 </div>
 
 
