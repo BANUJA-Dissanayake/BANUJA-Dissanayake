@@ -25,6 +25,7 @@
 <a href="https://www.linkedin.com/in/banuja-dissanayake/" target="_blank">
 <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
+</div>
 
 
 # 💻 Tech Stack:
