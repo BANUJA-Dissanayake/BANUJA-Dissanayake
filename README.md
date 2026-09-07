@@ -2,7 +2,7 @@
 
 <!-- <img src="./Ananya01Agrawal.jpg" alt="BANUJA-Dissanayake Banner Image" width="100%"> -->
 
-<img src="./nox-dragon-logo.svg" alt="NOX DRAGON" width="720" />
+<img src="./nox-dragon-logo.svg" alt="NOX DRAGON" width="720" height="136" />
 
 <!-- animated typing tagline — edit the &lines= text below to change what it cycles through -->
 <a href="#">
